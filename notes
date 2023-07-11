@@ -1,0 +1,42 @@
+yarn hardhat deploy --tags "clubnft,mocks"
+PS C:\Users\stipe\Documents\workspace\EthereumWorkspace\prod\football-nft> yarn hardhat deploy --tags "clubnft,mocks"
+yarn run v1.22.19
+$ C:\Users\stipe\Documents\workspace\EthereumWorkspace\prod\football-nft\node_modules\.bin\hardhat deploy --tags clubnft,mocks
+Nothing to compile
+Local network detected! Deploying mocks...
+deploying "VRFCoordinatorV2Mock" (tx: 0x943bba99f5f8086776d6cdb4802eaa8a7605f1273f6e6ee44f72e50fda0b31b1)...: deployed at 0x5FbDB2315678afecb367f032d93F642f64180aa3 with 2544160 gas
+deploying "MockV3Aggregator" (tx: 0xcee94f6743e729fce28367ef2245532df6658c7933fe4525702287783e7a349d)...: deployed at 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512 with 569795 gas
+Mocks Deployed!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Uploading to Pinata
+Uploading DINAMO...
+Uploading HAJDUK...
+Uploading OSIJEK...
+Uploading RIJEKA...
+Token URIs uploaded! They are:
+[
+'ipfs://QmbKDdqpUPFDHqg4FX2zDjwUTvYNBm4kKffkzd75syvsDT',
+'ipfs://QmTTWVrSu44dPDCTpsfVamReyX7knubCvM5EUcePwkWyeD',
+'ipfs://QmW2EQs4qxnjNQR5Te6kUf9P7WHB4DAF4yYTSwkEoaM6E1',
+'ipfs://QmWavDYkfu18KtyqygzwVmi5i8JJXcyVPPipycG5vmNoyT'
+]
+
+reusing "ClubNft" at 0x8ECb457fCB256c90b829667C5407e8572eb84d0f
+Verifying...
+Verifying contract...
+Nothing to compile
+Successfully submitted source code for contract
+contracts/ClubNft.sol:ClubNft at 0x8ECb457fCB256c90b829667C5407e8572eb84d0f
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract ClubNft on Etherscan.
+https://sepolia.etherscan.io/address/0x8ECb457fCB256c90b829667C5407e8572eb84d0f#code
+Done in 21.00s.
+
+reusing "ClubNft" at 0x8ECb457fCB256c90b829667C5407e8572eb84d0f
+Verifying...
+Verifying contract...
+The contract 0x8ECb457fCB256c90b829667C5407e8572eb84d0f has already been verified
+Club NFT index 0 tokenURI: ipfs://QmW2EQs4qxnjNQR5Te6kUf9P7WHB4DAF4yYTSwkEoaM6E1
+
+https://testnets.opensea.io/collection/club-nft
