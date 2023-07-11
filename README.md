@@ -9,9 +9,9 @@ Minting depends on the randomness and rarity specified in the code.
 <br/>
 <p align="center">
 <img src="./images/clubNft/HAJDUK.png" width="225" alt="NFT HAJDUK">
-<img src="./images/clubNft/DINAMO.svg" width="225" alt="NFT DINAMO">
+<img src="./images/clubNft/DINAMO.png" width="225" alt="NFT DINAMO">
 <img src="./images/clubNft/RIJEKA.png" width="225" alt="NFT RIJEKA">
-<img src="./images/clubNft/OSIJEK.svg" width="225" alt="NFT OSIJEK">
+<img src="./images/clubNft/OSIJEK.png" width="225" alt="NFT OSIJEK">
 </p>
 <br/>
 
